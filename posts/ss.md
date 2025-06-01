@@ -8,7 +8,7 @@ Ubuntu 20.04 서버 환경에서 **ZooKeeper 없이 Kafka (KRaft 모드)**와 Re
 
 ### 👉 설치
 
-```
+```jsx
 sudo apt update
 sudo apt install redis -y
 ```
